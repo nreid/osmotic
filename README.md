@@ -14,3 +14,7 @@
 3: run featurecounts
 
 	15.11.13.featurecounts.sh
+
+4: analyze counts in edgeR
+
+	osmotic_edgeR_script.R
