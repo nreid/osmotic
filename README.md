@@ -18,3 +18,7 @@
 4: analyze counts in edgeR
 
 	osmotic_edgeR_script.R
+
+5: make some plots
+
+	osmotic_edgeR_plots.R
